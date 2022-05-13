@@ -1,1 +1,1 @@
-main branch text
+this is the text i have finally gone with after the merge conflict :D
